@@ -1,2 +1,3 @@
 # harikayakkati
-Hello world! This is my profile
+My name is Harika Yakkati
+I am an Btech Graduate in computer science
